@@ -2,7 +2,3 @@
 
 @import "tailwindcss";
 @plugin "daisyui";
-
-body {
-  @apply font-inter;
-}

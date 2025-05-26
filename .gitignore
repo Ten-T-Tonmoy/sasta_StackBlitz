@@ -21,6 +21,8 @@ Thumbs.db
 build/
 dist/
 
+tmp/
+
 # Cache
 .cache/
 .next/
